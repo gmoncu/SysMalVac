@@ -1,0 +1,688 @@
+n	SAMPLE	Original_label	Label	Stimulation	Site	pid	cohort	Timepoint	casecon	Group_nb	Definition Group_nb
+1	13SE3824	L28Scr CSP	L28Scr	CSP	Lamba	6225	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+2	13SE3825	L28Scr DMSO	L28Scr	DMSO	Lamba	6225	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+3	13SE3826	L28Scr iRBC	L28Scr	iRBC	Lamba	6225	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+4	13SE3827	L28Scr uRBC	L28Scr	uRBC	Lamba	6225	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+5	13SE3828	L58Scr CSP	L58Scr	CSP	Lamba	6267	5-17m	M0	non-malaria	3	Control
+6	13SE3829	L58Scr DMSO	L58Scr	DMSO	Lamba	6267	5-17m	M0	non-malaria	3	Control
+7	13SE3830	L58Scr iRBC	L58Scr	iRBC	Lamba	6267	5-17m	M0	non-malaria	3	Control
+8	13SE3831	L58Scr uRBC	L58Scr	uRBC	Lamba	6267	5-17m	M0	non-malaria	3	Control
+9	13SE3832	6097602 CSP	6097602	CSP	Bagamoyo	2994	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+10	13SE3833	6097602 DMSO	6097602	DMSO	Bagamoyo	2994	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+11	13SE3834	6097602 iRBC	6097602	iRBC	Bagamoyo	2994	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+12	13SE3835	6097602 uRBC	6097602	uRBC	Bagamoyo	2994	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+13	13SE3836	6090276 CSP	6090276	CSP	Bagamoyo	2742	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+14	13SE3837	6090276 DMSO	6090276	DMSO	Bagamoyo	2742	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+15	13SE3838	6090276 iRBC	6090276	iRBC	Bagamoyo	2742	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+16	13SE3839	6090276 uRBC	6090276	uRBC	Bagamoyo	2742	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+17	13SE3844	1038942.3 CSP	1038942,3	CSP	Manhiça	20881	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+18	13SE3845	1038942.3 DMSO	1038942,3	DMSO	Manhiça	20881	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+19	13SE3846	1038942.3 iRBC	1038942,3	iRBC	Manhiça	20881	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+20	13SE3847	1038942.3 uRBC	1038942,3	uRBC	Manhiça	20881	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+21	13SE3848	1039146.4 CSP	1039146,4	CSP	Manhiça	20651	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+22	13SE3849	1039146.4 DMSO	1039146,4	DMSO	Manhiça	20651	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+23	13SE3850	1039146.4 iRBC	1039146,4	iRBC	Manhiça	20651	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+24	13SE3851	1039146.4 uRBC	1039146,4	uRBC	Manhiça	20651	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+25	13SE3852	863937 CSP	863937	CSP	Bagamoyo	19820	5-17m	M3	non-malaria	3	Control
+26	13SE3853	863937 DMSO	863937	DMSO	Bagamoyo	19820	5-17m	M3	non-malaria	3	Control
+27	13SE3854	863937 iRBC	863937	iRBC	Bagamoyo	19820	5-17m	M3	non-malaria	3	Control
+28	13SE3855	863937 uRBC	863937	uRBC	Bagamoyo	19820	5-17m	M3	non-malaria	3	Control
+29	13SE3856	L37Scr CSP	L37Scr	CSP	Lamba	6239	5-17m	M0	non-malaria	3	Control
+30	13SE3857	L37Scr DMSO	L37Scr	DMSO	Lamba	6239	5-17m	M0	non-malaria	3	Control
+31	13SE3858	L37Scr iRBC	L37Scr	iRBC	Lamba	6239	5-17m	M0	non-malaria	3	Control
+32	13SE3859	L37Scr uRBC	L37Scr	uRBC	Lamba	6239	5-17m	M0	non-malaria	3	Control
+33	13SE3860	042v5 CSP	042v5	CSP	Lamba	6469	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+34	13SE3861	042v5 DMSO	042v5	DMSO	Lamba	6469	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+35	13SE3862	042v5 iRBC	042v5	iRBC	Lamba	6469	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+36	13SE3863	042v5 uRBC	042v5	uRBC	Lamba	6469	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+37	13SE3864	L53Scr CSP	L53Scr	CSP	Lamba	6266	5-17m	M0	non-malaria	3	Control
+38	13SE3865	L53Scr DMSO	L53Scr	DMSO	Lamba	6266	5-17m	M0	non-malaria	3	Control
+39	13SE3866	L53Scr iRBC	L53Scr	iRBC	Lamba	6266	5-17m	M0	non-malaria	3	Control
+40	13SE3867	L53Scr uRBC	L53Scr	uRBC	Lamba	6266	5-17m	M0	non-malaria	3	Control
+41	13SE3868	L215v5 CSP	L215v5	CSP	Lamba	6191	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+42	13SE3869	L215v5 DMSO	L215v5	DMSO	Lamba	6191	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+43	13SE3874	6092175 CSP	6092175	CSP	Bagamoyo	2889	5-17m	M3	non-malaria	3	Control
+44	13SE3875	6092175 DMSO	6092175	DMSO	Bagamoyo	2889	5-17m	M3	non-malaria	3	Control
+45	13SE3876	6092175 iRBC	6092175	iRBC	Bagamoyo	2889	5-17m	M3	non-malaria	3	Control
+46	13SE3877	6092175 uRBC	6092175	uRBC	Bagamoyo	2889	5-17m	M3	non-malaria	3	Control
+47	13SE3878	4086782 CSP	4086782	CSP	Bagamoyo	2853	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+48	13SE3879	4086782 DMSO	4086782	DMSO	Bagamoyo	2853	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+49	13SE3880	4086782 iRBC	4086782	iRBC	Bagamoyo	2853	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+50	13SE3881	4086782 uRBC	4086782	uRBC	Bagamoyo	2853	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+51	13SE3882	7092086 CSP	7092086	CSP	Bagamoyo	2743	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+52	13SE3883	7092086 DMSO	7092086	DMSO	Bagamoyo	2743	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+53	13SE3884	7092086 iRBC	7092086	iRBC	Bagamoyo	2743	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+54	13SE3885	7092086 uRBC	7092086	uRBC	Bagamoyo	2743	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+55	13SE3886	1082477 CSP	1082477	CSP	Bagamoyo	2744	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+56	13SE3887	1082477 DMSO	1082477	DMSO	Bagamoyo	2744	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+57	13SE3888	1082477 iRBC	1082477	iRBC	Bagamoyo	2744	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+58	13SE3889	1082477 uRBC	1082477	uRBC	Bagamoyo	2744	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+59	13SE3890	838042.8 CSP	838042,8	CSP	Manhiça	19667	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+60	13SE3891	838042.8 DMSO	838042,8	DMSO	Manhiça	19667	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+61	13SE3892	1039233.1 CSP	1039233,1	CSP	Manhiça	20292	6-12w	M3	non-malaria	3	Control
+62	13SE3893	1039233.1 DMSO	1039233,1	DMSO	Manhiça	20292	6-12w	M3	non-malaria	3	Control
+63	13SE3894	1039233.1 iRBC	1039233,1	iRBC	Manhiça	20292	6-12w	M3	non-malaria	3	Control
+64	13SE3895	1039233.1 uRBC	1039233,1	uRBC	Manhiça	20292	6-12w	M3	non-malaria	3	Control
+65	13SE3896	1038902.7 CSP	1038902,7	CSP	Manhiça	20685	6-12w	M3	non-malaria	3	Control
+66	13SE3897	1038902.7 DMSO	1038902,7	DMSO	Manhiça	20685	6-12w	M3	non-malaria	3	Control
+67	13SE3898	1038902.7 iRBC	1038902,7	iRBC	Manhiça	20685	6-12w	M3	non-malaria	3	Control
+68	13SE3899	1038902.7 uRBC	1038902,7	uRBC	Manhiça	20685	6-12w	M3	non-malaria	3	Control
+69	13SE3900	863928.8 CSP	863928,8	CSP	Manhiça	19941	5-17m	M3	malaria	3	Control
+70	13SE3901	863928.8 DMSO	863928,8	DMSO	Manhiça	19941	5-17m	M3	malaria	3	Control
+71	13SE3902	1039085.6 CSP	1039085,6	CSP	Manhiça	20640	6-12w	M3	non-malaria	3	Control
+72	13SE3903	1039085.6 DMSO	1039085,6	DMSO	Manhiça	20640	6-12w	M3	non-malaria	3	Control
+73	13SE3904	1039085.6 iRBC	1039085,6	iRBC	Manhiça	20640	6-12w	M3	non-malaria	3	Control
+74	13SE3905	1039085.6 uRBC	1039085,6	uRBC	Manhiça	20640	6-12w	M3	non-malaria	3	Control
+75	13SE3906	838244.2 CSP	838244,2	CSP	Manhiça	19900	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+76	13SE3907	838244.2 DMSO	838244,2	DMSO	Manhiça	19900	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+77	13SE3908	838244.2 iRBC	838244,2	iRBC	Manhiça	19900	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+78	13SE3909	838244.2 uRBC	838244,2	uRBC	Manhiça	19900	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+79	13SE3910	5094037 CSP	5094037	CSP	Bagamoyo	3074	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+80	13SE3911	5094037 DMSO	5094037	DMSO	Bagamoyo	3074	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+81	13SE3912	5094037 iRBC	5094037	iRBC	Bagamoyo	3074	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+82	13SE3913	5094037 uRBC	5094037	uRBC	Bagamoyo	3074	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+83	13SE3914	1039111.2 CSP	1039111,2	CSP	Manhiça	20699	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+84	13SE3915	1039111.2 DMSO	1039111,2	DMSO	Manhiça	20699	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+85	13SE3916	1039111.2 iRBC	1039111,2	iRBC	Manhiça	20699	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+86	13SE3917	1039111.2 uRBC	1039111,2	uRBC	Manhiça	20699	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+87	13SE3918	L2v5 CSP	L2v5	CSP	Lamba	6200	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+88	13SE3919	L2v5 DMSO	L2v5	DMSO	Lamba	6200	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+89	13SE3920	L2v5 iRBC	L2v5	iRBC	Lamba	6200	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+90	13SE3921	L2v5 uRBC	L2v5	uRBC	Lamba	6200	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+91	13SE3922	L48Scr CSP	L48Scr	CSP	Lamba	6251	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+92	13SE3923	L48Scr DMSO	L48Scr	DMSO	Lamba	6251	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+93	13SE3924	L48Scr iRBC	L48Scr	iRBC	Lamba	6251	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+94	13SE3925	L48Scr uRBC	L48Scr	uRBC	Lamba	6251	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+95	13SE3926	L248v5 CSP	L248v5	CSP	Lamba	6235	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+96	13SE3927	L248v5 DMSO	L248v5	DMSO	Lamba	6235	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+97	13SE3928	1099505 CSP	1099505	CSP	Bagamoyo	2952	5-17m	M3	malaria	3	Control
+98	13SE3929	1099505 DMSO	1099505	DMSO	Bagamoyo	2952	5-17m	M3	malaria	3	Control
+99	13SE3930	1099505 iRBC	1099505	iRBC	Bagamoyo	2952	5-17m	M3	malaria	3	Control
+100	13SE3931	1099505 uRBC	1099505	uRBC	Bagamoyo	2952	5-17m	M3	malaria	3	Control
+101	13SE3932	9102267 CSP	9102267	CSP	Bagamoyo	3089	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+102	13SE3933	9102267 DMSO	9102267	DMSO	Bagamoyo	3089	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+103	13SE3934	9102267 iRBC	9102267	iRBC	Bagamoyo	3089	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+104	13SE3935	9102267 uRBC	9102267	uRBC	Bagamoyo	3089	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+105	13SE3936	6099843 CSP	6099843	CSP	Bagamoyo	3049	5-17m	M3	non-malaria	3	Control
+106	13SE3937	6099843 DMSO	6099843	DMSO	Bagamoyo	3049	5-17m	M3	non-malaria	3	Control
+107	13SE3938	6099843 iRBC	6099843	iRBC	Bagamoyo	3049	5-17m	M3	non-malaria	3	Control
+108	13SE3939	6099843 uRBC	6099843	uRBC	Bagamoyo	3049	5-17m	M3	non-malaria	3	Control
+109	13SE3940	3089229 CSP	3089229	CSP	Bagamoyo	2978	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+110	13SE3941	3089229 DMSO	3089229	DMSO	Bagamoyo	2978	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+111	13SE3942	3089229 iRBC	3089229	iRBC	Bagamoyo	2978	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+112	13SE3943	3089229 uRBC	3089229	uRBC	Bagamoyo	2978	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+113	13SE3944	8102284 CSP	8102284	CSP	Bagamoyo	3071	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+114	13SE3945	8102284 DMSO	8102284	DMSO	Bagamoyo	3071	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+115	13SE3946	8102284 iRBC	8102284	iRBC	Bagamoyo	3071	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+116	13SE3947	8102284 uRBC	8102284	uRBC	Bagamoyo	3071	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+117	13SE3948	7086029 CSP	7086029	CSP	Bagamoyo	2750	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+118	13SE3949	7086029 DMSO	7086029	DMSO	Bagamoyo	2750	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+119	13SE3950	7086029 iRBC	7086029	iRBC	Bagamoyo	2750	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+120	13SE3951	7086029 uRBC	7086029	uRBC	Bagamoyo	2750	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+121	13SE3952	5099572 CSP	5099572	CSP	Bagamoyo	3057	5-17m	M3	non-malaria	3	Control
+122	13SE3953	5099572 DMSO	5099572	DMSO	Bagamoyo	3057	5-17m	M3	non-malaria	3	Control
+123	13SE3954	1038914 CSP	1038914	CSP	Manhiça	20822	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+124	13SE3955	1038914 DMSO	1038914	DMSO	Manhiça	20822	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+125	13SE3956	1038914 iRBC	1038914	iRBC	Manhiça	20822	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+126	13SE3957	1038914 uRBC	1038914	uRBC	Manhiça	20822	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+127	13SE3958	838259.6 CSP	838259,6	CSP	Manhiça	19915	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+128	13SE3959	838259.6 DMSO	838259,6	DMSO	Manhiça	19915	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+129	13SE3960	838259.6 iRBC	838259,6	iRBC	Manhiça	19915	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+130	13SE3961	838259.6 uRBC	838259,6	uRBC	Manhiça	19915	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+131	13SE3962	1038982.9 CSP	1038982,9	CSP	Manhiça	20462	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+132	13SE3963	1038982.9 DMSO	1038982,9	DMSO	Manhiça	20462	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+133	13SE3964	1038982.9 iRBC	1038982,9	iRBC	Manhiça	20462	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+134	13SE3965	1038982.9 uRBC	1038982,9	uRBC	Manhiça	20462	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+135	13SE3966	1038956 CSP	1038956,0	CSP	Manhiça	20883	6-12w	M3	non-malaria	3	Control
+136	13SE3967	1038956 DMSO	1038956,0	DMSO	Manhiça	20883	6-12w	M3	non-malaria	3	Control
+137	13SE3968	1038956 iRBC	1038956,0	iRBC	Manhiça	20883	6-12w	M3	non-malaria	3	Control
+138	13SE3969	1038956 uRBC	1038956,0	uRBC	Manhiça	20883	6-12w	M3	non-malaria	3	Control
+139	13SE3970	1039244.7 CSP	1039244,7	CSP	Manhiça	20347	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+140	13SE3971	1039244.7 DMSO	1039244,7	DMSO	Manhiça	20347	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+141	13SE3972	1039244.7 iRBC	1039244,7	iRBC	Manhiça	20347	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+142	13SE3973	1039244.7 uRBC	1039244,7	uRBC	Manhiça	20347	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+143	13SE3974	1038952.2 CSP	1038952,2	CSP	Manhiça	20890	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+144	13SE3975	1038952.2 DMSO	1038952,2	DMSO	Manhiça	20890	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+145	13SE3976	1039141.9 CSP	1039141,9	CSP	Manhiça	20729	6-12w	M3	malaria	3	Control
+146	13SE3977	1039141.9 DMSO	1039141,9	DMSO	Manhiça	20729	6-12w	M3	malaria	3	Control
+147	13SE3978	1039141.9 iRBC	1039141,9	iRBC	Manhiça	20729	6-12w	M3	malaria	3	Control
+148	13SE3979	1039141.9 uRBC	1039141,9	uRBC	Manhiça	20729	6-12w	M3	malaria	3	Control
+149	13SE3980	1038961.4 CSP	1038961,4	CSP	Manhiça	20873	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+150	13SE3981	1038961.4 DMSO	1038961,4	DMSO	Manhiça	20873	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+151	13SE3982	1038961.4 iRBC	1038961,4	iRBC	Manhiça	20873	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+152	13SE3983	1038961.4 uRBC	1038961,4	uRBC	Manhiça	20873	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+153	13SE3984	032v5 CSP	032v5	CSP	Lamba	6448	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+154	13SE3985	032v5 DMSO	032v5	DMSO	Lamba	6448	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+155	13SE3986	032v5 iRBC	032v5	iRBC	Lamba	6448	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+156	13SE3987	032v5 uRBC	032v5	uRBC	Lamba	6448	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+157	13SE3988	L252v5 CSP	L252v5	CSP	Lamba	6125	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+158	13SE3989	L252v5 DMSO	L252v5	DMSO	Lamba	6125	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+159	13SE3990	L252v5 iRBC	L252v5	iRBC	Lamba	6125	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+160	13SE3991	L252v5 uRBC	L252v5	uRBC	Lamba	6125	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+161	13SE3992	L112Scr CSP	L112Scr	CSP	Lamba	6329	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+162	13SE3993	L112Scr DMSO	L112Scr	DMSO	Lamba	6329	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+163	13SE3994	L202v5 CSP	L202v5	CSP	Lamba	6148	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+164	13SE3995	L202v5 DMSO	L202v5	DMSO	Lamba	6148	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+165	13SE3996	L202v5 iRBC	L202v5	iRBC	Lamba	6148	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+166	13SE3997	L202v5 uRBC	L202v5	uRBC	Lamba	6148	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+167	13SE3998	L230v5 CSP	L230v5	CSP	Lamba	5874	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+168	13SE3999	L230v5 DMSO	L230v5	DMSO	Lamba	5874	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+169	13SE4000	2099551 CSP	2099551	CSP	Bagamoyo	3056	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+170	13SE4001	2099551 DMSO	2099551	DMSO	Bagamoyo	3056	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+171	13SE4002	4093334 CSP	4093334	CSP	Bagamoyo	3068	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+172	13SE4003	4093334 DMSO	4093334	DMSO	Bagamoyo	3068	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+173	13SE4004	4093334 iRBC	4093334	iRBC	Bagamoyo	3068	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+174	13SE4005	4093334 uRBC	4093334	uRBC	Bagamoyo	3068	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+175	13SE4006	8084833 CSP	8084833	CSP	Bagamoyo	2689	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+176	13SE4007	8084833 DMSO	8084833	DMSO	Bagamoyo	2689	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+177	13SE4008	2086771 CSP	2086771	CSP	Bagamoyo	2850	5-17m	M0	malaria	3	Control
+178	13SE4009	2086771 DMSO	2086771	DMSO	Bagamoyo	2850	5-17m	M0	malaria	3	Control
+179	13SE4010	2086771 iRBC	2086771	iRBC	Bagamoyo	2850	5-17m	M0	malaria	3	Control
+180	13SE4011	2086771 uRBC	2086771	uRBC	Bagamoyo	2850	5-17m	M0	malaria	3	Control
+181	13SE4012	6092211 CSP	6092211	CSP	Bagamoyo	2888	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+182	13SE4013	6092211 DMSO	6092211	DMSO	Bagamoyo	2888	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+183	13SE4014	6092211 iRBC	6092211	iRBC	Bagamoyo	2888	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+184	13SE4015	6092211 uRBC	6092211	uRBC	Bagamoyo	2888	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+185	13SE4016	9085923 CSP	9085923	CSP	Bagamoyo	2743	5-17m	M0	malaria	1	RTS,S/AS01E primary schedule with booster
+186	13SE4017	9085923 DMSO	9085923	DMSO	Bagamoyo	2743	5-17m	M0	malaria	1	RTS,S/AS01E primary schedule with booster
+187	13SE4018	9085923 iRBC	9085923	iRBC	Bagamoyo	2743	5-17m	M0	malaria	1	RTS,S/AS01E primary schedule with booster
+188	13SE4019	8084896 CSP	8084896	CSP	Bagamoyo	2713	5-17m	M0	non-malaria	3	Control
+189	13SE4020	8084896 DMSO	8084896	DMSO	Bagamoyo	2713	5-17m	M0	non-malaria	3	Control
+190	13SE4021	8084896 iRBC	8084896	iRBC	Bagamoyo	2713	5-17m	M0	non-malaria	3	Control
+191	13SE4022	1089290 CSP	1089290	CSP	Bagamoyo	2994	5-17m	M0	malaria	1	RTS,S/AS01E primary schedule with booster
+192	13SE4023	1089290 DMSO	1089290	DMSO	Bagamoyo	2994	5-17m	M0	malaria	1	RTS,S/AS01E primary schedule with booster
+193	13SE4024	1089290 iRBC	1089290	iRBC	Bagamoyo	2994	5-17m	M0	malaria	1	RTS,S/AS01E primary schedule with booster
+194	13SE4025	1038951.5 CSP	1038951,5	CSP	Manhiça	20865	6-12w	M3	non-malaria	3	Control
+195	13SE4026	1038951.5 DMSO	1038951,5	DMSO	Manhiça	20865	6-12w	M3	non-malaria	3	Control
+196	13SE4027	1038951.5 iRBC	1038951,5	iRBC	Manhiça	20865	6-12w	M3	non-malaria	3	Control
+197	13SE4028	1038951.5 uRBC	1038951,5	uRBC	Manhiça	20865	6-12w	M3	non-malaria	3	Control
+198	13SE4029	838285.5 CSP	838285,5	CSP	Manhiça	19941	5-17m	M0	malaria	3	Control
+199	13SE4030	838285.5 DMSO	838285,5	DMSO	Manhiça	19941	5-17m	M0	malaria	3	Control
+200	13SE4031	838285.5 iRBC	838285,5	iRBC	Manhiça	19941	5-17m	M0	malaria	3	Control
+201	13SE4032	838285.5 uRBC	838285,5	uRBC	Manhiça	19941	5-17m	M0	malaria	3	Control
+202	13SE4033	837893.7 CSP	837893,7	CSP	Manhiça	19508	5-17m	M0	malaria	3	Control
+203	13SE4034	837893.7 DMSO	837893,7	DMSO	Manhiça	19508	5-17m	M0	malaria	3	Control
+204	13SE4035	837893.7 iRBC	837893,7	iRBC	Manhiça	19508	5-17m	M0	malaria	3	Control
+205	13SE4036	837893.7 uRBC	837893,7	uRBC	Manhiça	19508	5-17m	M0	malaria	3	Control
+206	13SE4037	1039110.5 CSP	1039110,5	CSP	Manhiça	20698	6-12w	M3	non-malaria	3	Control
+207	13SE4038	1039110.5 DMSO	1039110,5	DMSO	Manhiça	20698	6-12w	M3	non-malaria	3	Control
+208	13SE4039	1039110.5 iRBC	1039110,5	iRBC	Manhiça	20698	6-12w	M3	non-malaria	3	Control
+209	13SE4040	1039110.5 uRBC	1039110,5	uRBC	Manhiça	20698	6-12w	M3	non-malaria	3	Control
+210	13SE4041	1039133.4 CSP	1039133,4	CSP	Manhiça	20724	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+211	13SE4042	1039133.4 DMSO	1039133,4	DMSO	Manhiça	20724	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+212	13SE4043	1039133.4 iRBC	1039133,4	iRBC	Manhiça	20724	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+213	13SE4044	1039133.4 uRBC	1039133,4	uRBC	Manhiça	20724	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+214	13SE4045	1038975.1 CSP	1038975,1	CSP	Manhiça	20454	6-12w	M3	non-malaria	3	Control
+215	13SE4046	1038975.1 DMSO	1038975,1	DMSO	Manhiça	20454	6-12w	M3	non-malaria	3	Control
+216	13SE4047	1038975.1 iRBC	1038975,1	iRBC	Manhiça	20454	6-12w	M3	non-malaria	3	Control
+217	13SE4048	1038975.1 uRBC	1038975,1	uRBC	Manhiça	20454	6-12w	M3	non-malaria	3	Control
+218	13SE4049	1039122.8 CSP	1039122,8	CSP	Manhiça	20722	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+219	13SE4050	1039122.8 DMSO	1039122,8	DMSO	Manhiça	20722	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+220	13SE4051	1039122.8 iRBC	1039122,8	iRBC	Manhiça	20722	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+221	13SE4052	1039122.8 uRBC	1039122,8	uRBC	Manhiça	20722	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+222	13SE4053	1038922.5 CSP	1038922,5	CSP	Manhiça	20824	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+223	13SE4054	1038922.5 DMSO	1038922,5	DMSO	Manhiça	20824	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+224	13SE4055	1038922.5 iRBC	1038922,5	iRBC	Manhiça	20824	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+225	13SE4056	1038922.5 uRBC	1038922,5	uRBC	Manhiça	20824	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+226	13SE4057	1039093.1 CSP	1039093,1	CSP	Manhiça	20653	6-12w	M3	non-malaria	3	Control
+227	13SE4058	1039093.1 DMSO	1039093,1	DMSO	Manhiça	20653	6-12w	M3	non-malaria	3	Control
+228	13SE4059	1039093.1 iRBC	1039093,1	iRBC	Manhiça	20653	6-12w	M3	non-malaria	3	Control
+229	13SE4060	1039093.1 uRBC	1039093,1	uRBC	Manhiça	20653	6-12w	M3	non-malaria	3	Control
+230	13SE4061	10074v5 CSP	10074v5	CSP	Lamba	6602	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+231	13SE4062	6090285 CSP	6090285	CSP	Bagamoyo	2791	5-17m	M3	non-malaria	3	Control
+232	13SE4063	6090285 iRBC	6090285	iRBC	Bagamoyo	2791	5-17m	M3	non-malaria	3	Control
+233	13SE4064	6090285 uRBC	6090285	uRBC	Bagamoyo	2791	5-17m	M3	non-malaria	3	Control
+234	13SE4065	5087719 CSP	5087719	CSP	Bagamoyo	2897	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+235	13SE4066	5087719 iRBC	5087719	iRBC	Bagamoyo	2897	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+236	13SE4067	5087719 uRBC	5087719	uRBC	Bagamoyo	2897	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+237	13SE4068	5089222 CSP	5089222	CSP	Bagamoyo	2960	5-17m	M0	non-malaria	3	Control
+238	13SE4069	5089222 iRBC	5089222	iRBC	Bagamoyo	2960	5-17m	M0	non-malaria	3	Control
+239	13SE4070	5089222 uRBC	5089222	uRBC	Bagamoyo	2960	5-17m	M0	non-malaria	3	Control
+240	13SE4071	7092149 CSP	7092149	CSP	Bagamoyo	2715	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+241	13SE4072	7092149 iRBC	7092149	iRBC	Bagamoyo	2715	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+242	13SE4073	7092149 uRBC	7092149	uRBC	Bagamoyo	2715	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+243	13SE4074	7087829 CSP	7087829	CSP	Bagamoyo	2954	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+244	13SE4075	7087829 DMSO	7087829	DMSO	Bagamoyo	2954	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+245	13SE4076	7087829 iRBC	7087829	iRBC	Bagamoyo	2954	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+246	13SE4077	7087829 uRBC	7087829	uRBC	Bagamoyo	2954	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+247	13SE4078	7092239 CSP	7092239	CSP	Bagamoyo	2890	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+248	13SE4079	7092239 iRBC	7092239	iRBC	Bagamoyo	2890	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+249	13SE4080	7092239 uRBC	7092239	uRBC	Bagamoyo	2890	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+250	13SE4081	2099533 CSP	2099533	CSP	Bagamoyo	3052	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+251	13SE4082	2099533 iRBC	2099533	iRBC	Bagamoyo	3052	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+252	13SE4083	2099533 uRBC	2099533	uRBC	Bagamoyo	3052	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+253	13SE4084	1039250.8 CSP	1039250,8	CSP	Manhiça	20345	6-12w	M3	malaria	3	Control
+254	13SE4085	1039250.8 iRBC	1039250,8	iRBC	Manhiça	20345	6-12w	M3	malaria	3	Control
+255	13SE4086	1039250.8 uRBC	1039250,8	uRBC	Manhiça	20345	6-12w	M3	malaria	3	Control
+256	13SE4087	1039064.1 CSP	1039064,1	CSP	Manhiça	20585	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+257	13SE4088	1039064.1 iRBC	1039064,1	iRBC	Manhiça	20585	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+258	13SE4089	1039064.1 uRBC	1039064,1	uRBC	Manhiça	20585	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+259	13SE4090	1039099.3 CSP	1039099,3	CSP	Manhiça	20661	6-12w	M3	non-malaria	3	Control
+260	13SE4091	1039099.3 iRBC	1039099,3	iRBC	Manhiça	20661	6-12w	M3	non-malaria	3	Control
+261	13SE4092	1039099.3 uRBC	1039099,3	uRBC	Manhiça	20661	6-12w	M3	non-malaria	3	Control
+262	13SE4093	1039014.6 CSP	1039014,6	CSP	Manhiça	20509	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+263	13SE4094	1039014.6 DMSO	1039014,6	DMSO	Manhiça	20509	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+264	13SE4095	1039024.5 CSP	1039024,5	CSP	Manhiça	20524	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+265	13SE4096	1039024.5 DMSO	1039024,5	DMSO	Manhiça	20524	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+266	13SE4097	1039024.5 iRBC	1039024,5	iRBC	Manhiça	20524	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+267	13SE4098	1039024.5 uRBC	1039024,5	uRBC	Manhiça	20524	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+268	13SE4099	1038976.8 CSP	1038976,8	CSP	Manhiça	20435	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+269	13SE4100	1038976.8 DMSO	1038976,8	DMSO	Manhiça	20435	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+270	13SE4101	1038976.8 iRBC	1038976,8	iRBC	Manhiça	20435	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+271	13SE4102	1038976.8 uRBC	1038976,8	uRBC	Manhiça	20435	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+272	13SE4103	1039044.3 CSP	1039044,3	CSP	Manhiça	20561	6-12w	M3	non-malaria	3	Control
+273	13SE4104	1039044.3 DMSO	1039044,3	DMSO	Manhiça	20561	6-12w	M3	non-malaria	3	Control
+274	13SE4105	1039044.3 iRBC	1039044,3	iRBC	Manhiça	20561	6-12w	M3	non-malaria	3	Control
+275	13SE4106	1039044.3 uRBC	1039044,3	uRBC	Manhiça	20561	6-12w	M3	non-malaria	3	Control
+276	13SE4107	1039102 CSP	1039102,0	CSP	Manhiça	20813	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+277	13SE4108	1039102 DMSO	1039102,0	DMSO	Manhiça	20813	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+278	13SE4109	1039102 iRBC	1039102,0	iRBC	Manhiça	20813	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+279	13SE4110	1039102 uRBC	1039102,0	uRBC	Manhiça	20813	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+280	13SE4111	838234.3 CSP	838234,3	CSP	Manhiça	19889	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+281	13SE4112	838234.3 DMSO	838234,3	DMSO	Manhiça	19889	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+282	13SE4113	1039023.8 CSP	1039023,8	CSP	Manhiça	20520	6-12w	M3	non-malaria	3	Control
+283	13SE4114	1039023.8 DMSO	1039023,8	DMSO	Manhiça	20520	6-12w	M3	non-malaria	3	Control
+284	13SE4115	1039023.8 iRBC	1039023,8	iRBC	Manhiça	20520	6-12w	M3	non-malaria	3	Control
+285	13SE4116	1039023.8 uRBC	1039023,8	uRBC	Manhiça	20520	6-12w	M3	non-malaria	3	Control
+286	13SE4117	1038915.7 CSP	1038915,7	CSP	Manhiça	20793	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+287	13SE4118	1038915.7 DMSO	1038915,7	DMSO	Manhiça	20793	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+288	13SE4119	1038915.7 iRBC	1038915,7	iRBC	Manhiça	20793	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+289	13SE4120	1038915.7 uRBC	1038915,7	uRBC	Manhiça	20793	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+290	13SE4121	L22scr CSP	L22scr	CSP	Lamba	6221	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+291	13SE4122	L22scr DMSO	L22scr	DMSO	Lamba	6221	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+292	13SE4123	L22scr iRBC	L22scr	iRBC	Lamba	6221	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+293	13SE4124	L22scr uRBC	L22scr	uRBC	Lamba	6221	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+294	13SE4125	L220v5 CSP	L220v5	CSP	Lamba	6126	5-17m	M3	non-malaria	3	Control
+295	13SE4126	L220v5 DMSO	L220v5	DMSO	Lamba	6126	5-17m	M3	non-malaria	3	Control
+296	13SE4127	L220v5 iRBC	L220v5	iRBC	Lamba	6126	5-17m	M3	non-malaria	3	Control
+297	13SE4128	L220v5 uRBC	L220v5	uRBC	Lamba	6126	5-17m	M3	non-malaria	3	Control
+298	13SE4129	838075.6 CSP	838075,6	CSP	Manhiça	19706	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+299	13SE4130	838075.6 DMSO	838075,6	DMSO	Manhiça	19706	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+300	13SE4131	7099457 CSP	7099457	CSP	Bagamoyo	3022	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+301	13SE4132	7099457 DMSO	7099457	DMSO	Bagamoyo	3022	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+302	13SE4133	7099457 iRBC	7099457	iRBC	Bagamoyo	3022	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+303	13SE4134	7099457 uRBC	7099457	uRBC	Bagamoyo	3022	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+304	13SE4135	5090257 CSP	5090257	CSP	Bagamoyo	2762	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+305	13SE4136	5090257 DMSO	5090257	DMSO	Bagamoyo	2762	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+306	13SE4137	5090257 iRBC	5090257	iRBC	Bagamoyo	2762	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+307	13SE4138	5090257 uRBC	5090257	uRBC	Bagamoyo	2762	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+308	13SE4139	6092121 CSP	6092121	CSP	Bagamoyo	3043	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+309	13SE4140	6092121 DMSO	6092121	DMSO	Bagamoyo	3043	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+310	13SE4141	6092121 iRBC	6092121	iRBC	Bagamoyo	3043	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+311	13SE4142	6092121 uRBC	6092121	uRBC	Bagamoyo	3043	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+312	13SE4143	863762.2 CSP	863762,2	CSP	Manhiça	19929	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+313	13SE4144	863762.2 DMSO	863762,2	DMSO	Manhiça	19929	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+314	13SE4145	863762.2 iRBC	863762,2	iRBC	Manhiça	19929	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+315	13SE4146	863762.2 uRBC	863762,2	uRBC	Manhiça	19929	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+316	13SE4147	1039136.5 CSP	1039136,5	CSP	Manhiça	20756	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+317	13SE4148	1039136.5 DMSO	1039136,5	DMSO	Manhiça	20756	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+318	13SE4149	1039136.5 iRBC	1039136,5	iRBC	Manhiça	20756	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+319	13SE4150	1039136.5 uRBC	1039136,5	uRBC	Manhiça	20756	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+320	13SE4151	5099446 CSP	5099446	CSP	Bagamoyo	3019	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+321	13SE4152	5099446 DMSO	5099446	DMSO	Bagamoyo	3019	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+322	13SE4153	5099446 iRBC	5099446	iRBC	Bagamoyo	3019	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+323	13SE4154	5099446 uRBC	5099446	uRBC	Bagamoyo	3019	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+324	13SE4155	L38Scr CSP	L38Scr	CSP	Lamba	6237	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+325	13SE4156	L38Scr DMSO	L38Scr	DMSO	Lamba	6237	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+326	13SE4157	L38Scr iRBC	L38Scr	iRBC	Lamba	6237	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+327	13SE4158	L38Scr uRBC	L38Scr	uRBC	Lamba	6237	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+328	13SE4159	L32v5 CSP	L32v5	CSP	Lamba	6230	5-17m	M3	non-malaria	3	Control
+329	13SE4160	L32v5 DMSO	L32v5	DMSO	Lamba	6230	5-17m	M3	non-malaria	3	Control
+330	13SE4161	L32v5 iRBC	L32v5	iRBC	Lamba	6230	5-17m	M3	non-malaria	3	Control
+331	13SE4162	L32v5 uRBC	L32v5	uRBC	Lamba	6230	5-17m	M3	non-malaria	3	Control
+332	13SE4163	5094064 CSP	5094064	CSP	Bagamoyo	3078	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+333	13SE4164	5094064 DMSO	5094064	DMSO	Bagamoyo	3078	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+334	13SE4165	5094064 iRBC	5094064	iRBC	Bagamoyo	3078	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+335	13SE4166	5094064 uRBC	5094064	uRBC	Bagamoyo	3078	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+336	13SE4167	4084883 CSP	4084883	CSP	Bagamoyo	2696	5-17m	M0	non-malaria	3	Control
+337	13SE4168	4084883 DMSO	4084883	DMSO	Bagamoyo	2696	5-17m	M0	non-malaria	3	Control
+338	13SE4169	2092099 CSP	2092099	CSP	Bagamoyo	2852	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+339	13SE4170	2092099 DMSO	2092099	DMSO	Bagamoyo	2852	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+340	13SE4171	2092099 iRBC	2092099	iRBC	Bagamoyo	2852	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+341	13SE4172	2092099 uRBC	2092099	uRBC	Bagamoyo	2852	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+342	13SE4173	7082510 CSP	7082510	CSP	Bagamoyo	2800	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+343	13SE4174	7082510 DMSO	7082510	DMSO	Bagamoyo	2800	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+344	13SE4175	7082510 iRBC	7082510	iRBC	Bagamoyo	2800	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+345	13SE4176	7082510 uRBC	7082510	uRBC	Bagamoyo	2800	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+346	13SE4177	7099502 CSP	7099502	CSP	Bagamoyo	3053	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+347	13SE4178	7099502 DMSO	7099502	DMSO	Bagamoyo	3053	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+348	13SE4179	7099502 iRBC	7099502	iRBC	Bagamoyo	3053	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+349	13SE4180	7099502 uRBC	7099502	uRBC	Bagamoyo	3053	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+350	13SE4181	8098855 CSP	8098855	CSP	Bagamoyo	3013	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+351	13SE4182	8098855 DMSO	8098855	DMSO	Bagamoyo	3013	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+352	13SE4183	1038939.3 CSP	1038939,3	CSP	Manhiça	20863	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+353	13SE4184	1038939.3 DMSO	1038939,3	DMSO	Manhiça	20863	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+354	13SE4185	1038939.3 iRBC	1038939,3	iRBC	Manhiça	20863	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+355	13SE4186	1038939.3 uRBC	1038939,3	uRBC	Manhiça	20863	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+356	13SE4187	1038950.8 CSP	1038950,8	CSP	Manhiça	20838	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+357	13SE4188	1038950.8 DMSO	1038950,8	DMSO	Manhiça	20838	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+358	13SE4189	1038950.8 iRBC	1038950,8	iRBC	Manhiça	20838	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+359	13SE4190	1038950.8 uRBC	1038950,8	uRBC	Manhiça	20838	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+360	13SE4191	1039091.7 CSP	1039091,7	CSP	Manhiça	20599	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+361	13SE4192	1039091.7 DMSO	1039091,7	DMSO	Manhiça	20599	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+362	13SE4193	1039091.7 iRBC	1039091,7	iRBC	Manhiça	20599	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+363	13SE4194	1039091.7 uRBC	1039091,7	uRBC	Manhiça	20599	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+364	13SE4195	1039256 CSP	1039256,0	CSP	Manhiça	20361	6-12w	M3	non-malaria	3	Control
+365	13SE4196	1039256 DMSO	1039256,0	DMSO	Manhiça	20361	6-12w	M3	non-malaria	3	Control
+366	13SE4197	1039256 iRBC	1039256,0	iRBC	Manhiça	20361	6-12w	M3	non-malaria	3	Control
+367	13SE4198	1039256 uRBC	1039256,0	uRBC	Manhiça	20361	6-12w	M3	non-malaria	3	Control
+368	13SE4199	863888.7 CSP	863888,7	CSP	Manhiça	19826	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+369	13SE4200	863888.7 DMSO	863888,7	DMSO	Manhiça	19826	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+370	13SE4201	1039119.8 CSP	1039119,8	CSP	Manhiça	20641	6-12w	M3	non-malaria	3	Control
+371	13SE4202	1039119.8 DMSO	1039119,8	DMSO	Manhiça	20641	6-12w	M3	non-malaria	3	Control
+372	13SE4203	1039119.8 iRBC	1039119,8	iRBC	Manhiça	20641	6-12w	M3	non-malaria	3	Control
+373	13SE4205	1039084.9 CSP	1039084,9	CSP	Manhiça	20639	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+374	13SE4206	1039084.9 DMSO	1039084,9	DMSO	Manhiça	20639	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+375	13SE4207	1039084.9 iRBC	1039084,9	iRBC	Manhiça	20639	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+376	13SE4208	1039084.9 uRBC	1039084,9	uRBC	Manhiça	20639	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+377	13SE4209	L30v5 CSP	L30v5	CSP	Lamba	6228	5-17m	M3	malaria	3	Control
+378	13SE4210	L30v5 DMSO	L30v5	DMSO	Lamba	6228	5-17m	M3	malaria	3	Control
+379	13SE4211	2098849 CSP	2098849	CSP	Bagamoyo	3012	5-17m	M3	non-malaria	3	Control
+380	13SE4212	2098849 DMSO	2098849	DMSO	Bagamoyo	3012	5-17m	M3	non-malaria	3	Control
+381	13SE4213	2098849 iRBC	2098849	iRBC	Bagamoyo	3012	5-17m	M3	non-malaria	3	Control
+382	13SE4214	2098849 uRBC	2098849	uRBC	Bagamoyo	3012	5-17m	M3	non-malaria	3	Control
+383	13SE4215	9090270 CSP	9090270	CSP	Bagamoyo	2830	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+384	13SE4216	9090270 DMSO	9090270	DMSO	Bagamoyo	2830	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+385	13SE4217	9090270 iRBC	9090270	iRBC	Bagamoyo	2830	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+386	13SE4218	9090270 uRBC	9090270	uRBC	Bagamoyo	2830	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+387	13SE4219	6100878 CSP	6100878	CSP	Bagamoyo	3065	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+388	13SE4220	6100878 DMSO	6100878	DMSO	Bagamoyo	3065	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+389	13SE4221	6100878 iRBC	6100878	iRBC	Bagamoyo	3065	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+390	13SE4222	6100878 uRBC	6100878	uRBC	Bagamoyo	3065	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+391	13SE4223	9086013 CSP	9086013	CSP	Bagamoyo	2742	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+392	13SE4224	9086013 DMSO	9086013	DMSO	Bagamoyo	2742	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+393	13SE4225	5087728 CSP	5087728	CSP	Bagamoyo	2878	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+394	13SE4226	5087728 DMSO	5087728	DMSO	Bagamoyo	2878	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+395	13SE4227	5087728 iRBC	5087728	iRBC	Bagamoyo	2878	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+396	13SE4228	5087728 uRBC	5087728	uRBC	Bagamoyo	2878	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+397	13SE4229	9093348 CSP	9093348	CSP	Bagamoyo	2903	5-17m	M3	malaria	3	Control
+398	13SE4230	9093348 DMSO	9093348	DMSO	Bagamoyo	2903	5-17m	M3	malaria	3	Control
+399	13SE4231	9093348 iRBC	9093348	iRBC	Bagamoyo	2903	5-17m	M3	malaria	3	Control
+400	13SE4232	9093348 uRBC	9093348	uRBC	Bagamoyo	2903	5-17m	M3	malaria	3	Control
+401	13SE4233	5102911 CSP	5102911	CSP	Bagamoyo	3096	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+402	13SE4234	5102911 DMSO	5102911	DMSO	Bagamoyo	3096	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+403	13SE4235	5102911 iRBC	5102911	iRBC	Bagamoyo	3096	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+404	13SE4236	5102911 uRBC	5102911	uRBC	Bagamoyo	3096	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+405	13SE4237	1039129.7 CSP	1039129,7	CSP	Manhiça	20732	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+406	13SE4238	1039129.7 DMSO	1039129,7	DMSO	Manhiça	20732	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+407	13SE4239	1039129.7 iRBC	1039129,7	iRBC	Manhiça	20732	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+408	13SE4240	1039129.7 uRBC	1039129,7	uRBC	Manhiça	20732	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+409	13SE4241	1038946.1 CSP	1038946,1	CSP	Manhiça	20869	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+410	13SE4242	1038946.1 DMSO	1038946,1	DMSO	Manhiça	20869	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+411	13SE4243	1038946.1 iRBC	1038946,1	iRBC	Manhiça	20869	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+412	13SE4244	1038946.1 uRBC	1038946,1	uRBC	Manhiça	20869	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+413	13SE4245	1039065.8 CSP	1039065,8	CSP	Manhiça	20609	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+414	13SE4246	1039065.8 DMSO	1039065,8	DMSO	Manhiça	20609	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+415	13SE4247	1039065.8 iRBC	1039065,8	iRBC	Manhiça	20609	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+416	13SE4248	1039065.8 uRBC	1039065,8	uRBC	Manhiça	20609	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+417	13SE4249	1039130.3 CSP	1039130,3	CSP	Manhiça	20733	6-12w	M3	malaria	3	Control
+418	13SE4250	1039130.3 DMSO	1039130,3	DMSO	Manhiça	20733	6-12w	M3	malaria	3	Control
+419	13SE4251	1039130.3 iRBC	1039130,3	iRBC	Manhiça	20733	6-12w	M3	malaria	3	Control
+420	13SE4252	1039130.3 uRBC	1039130,3	uRBC	Manhiça	20733	6-12w	M3	malaria	3	Control
+421	13SE4253	1039080.1 CSP	1039080,1	CSP	Manhiça	20628	6-12w	M3	non-malaria	3	Control
+422	13SE4254	1039080.1 DMSO	1039080,1	DMSO	Manhiça	20628	6-12w	M3	non-malaria	3	Control
+423	13SE4255	1039094.8 CSP	1039094,8	CSP	Manhiça	20638	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+424	13SE4256	1039094.8 DMSO	1039094,8	DMSO	Manhiça	20638	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+425	13SE4257	1039094.8 iRBC	1039094,8	iRBC	Manhiça	20638	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+426	13SE4258	1039094.8 uRBC	1039094,8	uRBC	Manhiça	20638	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+427	13SE4259	838178.2 CSP	838178,2	CSP	Manhiça	19831	5-17m	M0	malaria	1	RTS,S/AS01E primary schedule with booster
+428	13SE4260	838178.2 DMSO	838178,2	DMSO	Manhiça	19831	5-17m	M0	malaria	1	RTS,S/AS01E primary schedule with booster
+429	13SE4261	838178.2 iRBC	838178,2	iRBC	Manhiça	19831	5-17m	M0	malaria	1	RTS,S/AS01E primary schedule with booster
+430	13SE4262	838178.2 uRBC	838178,2	uRBC	Manhiça	19831	5-17m	M0	malaria	1	RTS,S/AS01E primary schedule with booster
+431	13SE4263	1039132.7 CSP	1039132,7	CSP	Manhiça	20723	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+432	13SE4264	1039132.7 DMSO	1039132,7	DMSO	Manhiça	20723	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+433	13SE4265	1039132.7 iRBC	1039132,7	iRBC	Manhiça	20723	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+434	13SE4266	1039132.7 uRBC	1039132,7	uRBC	Manhiça	20723	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+435	13SE4267	1038949.2 CSP	1038949,2	CSP	Manhiça	20871	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+436	13SE4268	1038949.2 DMSO	1038949,2	DMSO	Manhiça	20871	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+437	13SE4269	1038949.2 iRBC	1038949,2	iRBC	Manhiça	20871	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+438	13SE4270	1038949.2 uRBC	1038949,2	uRBC	Manhiça	20871	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+439	13SE4271	L10Scr CSP	L10Scr	CSP	Lamba	6211	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+440	13SE4272	L10Scr DMSO	L10Scr	DMSO	Lamba	6211	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+441	13SE4273	L10Scr iRBC	L10Scr	iRBC	Lamba	6211	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+442	13SE4274	L10Scr uRBC	L10Scr	uRBC	Lamba	6211	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+443	13SE4275	7092113 CSP	7092113	CSP	Bagamoyo	2809	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+444	13SE4276	7092113 DMSO	7092113	DMSO	Bagamoyo	2809	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+445	13SE4277	7092113 iRBC	7092113	iRBC	Bagamoyo	2809	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+446	13SE4278	7092113 uRBC	7092113	uRBC	Bagamoyo	2809	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+447	13SE4279	8086741 CSP	8086741	CSP	Bagamoyo	2830	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+448	13SE4280	8086741 DMSO	8086741	DMSO	Bagamoyo	2830	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+449	13SE4281	8086741 iRBC	8086741	iRBC	Bagamoyo	2830	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+450	13SE4282	8086741 uRBC	8086741	uRBC	Bagamoyo	2830	5-17m	M0	malaria	2	RTS,S/AS01E primary schedule without booster
+451	13SE4283	8092258 CSP	8092258	CSP	Bagamoyo	2883	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+452	13SE4284	8092258 DMSO	8092258	DMSO	Bagamoyo	2883	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+453	13SE4285	8092258 iRBC	8092258	iRBC	Bagamoyo	2883	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+454	13SE4286	8092258 uRBC	8092258	uRBC	Bagamoyo	2883	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+455	13SE4287	9098928 CSP	9098928	CSP	Bagamoyo	3026	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+456	13SE4288	9098928 DMSO	9098928	DMSO	Bagamoyo	3026	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+457	13SE4289	9098928 iRBC	9098928	iRBC	Bagamoyo	3026	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+458	13SE4290	9098928 uRBC	9098928	uRBC	Bagamoyo	3026	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+459	13SE4291	1039038.2 CSP	1039038,2	CSP	Manhiça	20528	6-12w	M3	malaria	3	Control
+460	13SE4292	1039038.2 DMSO	1039038,2	DMSO	Manhiça	20528	6-12w	M3	malaria	3	Control
+461	13SE4293	1039038.2 iRBC	1039038,2	iRBC	Manhiça	20528	6-12w	M3	malaria	3	Control
+462	13SE4294	1039038.2 uRBC	1039038,2	uRBC	Manhiça	20528	6-12w	M3	malaria	3	Control
+463	13SE4295	1039072.6 CSP	1039072,6	CSP	Manhiça	20582	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+464	13SE4296	1039072.6 DMSO	1039072,6	DMSO	Manhiça	20582	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+465	13SE4297	1039072.6 iRBC	1039072,6	iRBC	Manhiça	20582	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+466	13SE4298	1039072.6 uRBC	1039072,6	uRBC	Manhiça	20582	6-12w	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+467	13SE4299	1010997.7 CSP	1010997,7	CSP	Manhiça	20338	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+468	13SE4300	1010997.7 DMSO	1010997,7	DMSO	Manhiça	20338	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+469	13SE4301	1039005.4 CSP	1039005,4	CSP	Manhiça	20488	6-12w	M3	non-malaria	3	Control
+470	13SE4302	1039005.4 DMSO	1039005,4	DMSO	Manhiça	20488	6-12w	M3	non-malaria	3	Control
+471	13SE4303	1039005.4 iRBC	1039005,4	iRBC	Manhiça	20488	6-12w	M3	non-malaria	3	Control
+472	13SE4304	1039005.4 uRBC	1039005,4	uRBC	Manhiça	20488	6-12w	M3	non-malaria	3	Control
+473	13SE4305	838214.5 CSP	838214,5	CSP	Manhiça	19867	5-17m	M0	non-malaria	3	Control
+474	13SE4306	838214.5 DMSO	838214,5	DMSO	Manhiça	19867	5-17m	M0	non-malaria	3	Control
+475	13SE4307	1039041.2 CSP	1039041,2	CSP	Manhiça	20543	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+476	13SE4308	1039041.2 DMSO	1039041,2	DMSO	Manhiça	20543	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+477	13SE4309	1039041.2 iRBC	1039041,2	iRBC	Manhiça	20543	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+478	13SE4310	1039041.2 uRBC	1039041,2	uRBC	Manhiça	20543	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+479	13SE4311	1039251.5 CSP	1039251,5	CSP	Manhiça	20366	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+480	13SE4312	1039251.5 DMSO	1039251,5	DMSO	Manhiça	20366	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+481	13SE4313	1039108.2 CSP	1039108,2	CSP	Manhiça	20695	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+482	13SE4314	1039108.2 DMSO	1039108,2	DMSO	Manhiça	20695	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+483	13SE4315	1039108.2 iRBC	1039108,2	iRBC	Manhiça	20695	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+484	13SE4316	1039108.2 uRBC	1039108,2	uRBC	Manhiça	20695	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+485	13SE4317	1039067.2 CSP	1039067,2	CSP	Manhiça	20611	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+486	13SE4318	1039067.2 DMSO	1039067,2	DMSO	Manhiça	20611	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+487	13SE4319	1039067.2 iRBC	1039067,2	iRBC	Manhiça	20611	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+488	13SE4320	1039067.2 uRBC	1039067,2	uRBC	Manhiça	20611	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+489	13SE4321	838226.8 CSP	838226,8	CSP	Manhiça	19881	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+490	13SE4322	838226.8 DMSO	838226,8	DMSO	Manhiça	19881	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+491	13SE4323	L36Scr CSP	L36Scr	CSP	Lamba	6236	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+492	13SE4324	L36Scr DMSO	L36Scr	DMSO	Lamba	6236	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+493	13SE4325	L36Scr iRBC	L36Scr	iRBC	Lamba	6236	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+494	13SE4326	L36Scr uRBC	L36Scr	uRBC	Lamba	6236	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+495	13SE4327	6090294 CSP	6090294	CSP	Bagamoyo	2821	5-17m	M3	non-malaria	3	Control
+496	13SE4328	6090294 DMSO	6090294	DMSO	Bagamoyo	2821	5-17m	M3	non-malaria	3	Control
+497	13SE4329	6090294 iRBC	6090294	iRBC	Bagamoyo	2821	5-17m	M3	non-malaria	3	Control
+498	13SE4330	6090294 uRBC	6090294	uRBC	Bagamoyo	2821	5-17m	M3	non-malaria	3	Control
+499	13SE4331	2087752 CSP	2087752	CSP	Bagamoyo	2916	5-17m	M0	malaria	3	Control
+500	13SE4332	2087752 DMSO	2087752	DMSO	Bagamoyo	2916	5-17m	M0	malaria	3	Control
+501	13SE4333	2087752 iRBC	2087752	iRBC	Bagamoyo	2916	5-17m	M0	malaria	3	Control
+502	13SE4334	2087752 uRBC	2087752	uRBC	Bagamoyo	2916	5-17m	M0	malaria	3	Control
+503	13SE4335	3092145 CSP	3092145	CSP	Bagamoyo	2721	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+504	13SE4336	3092145 DMSO	3092145	DMSO	Bagamoyo	2721	5-17m	M3	malaria	2	RTS,S/AS01E primary schedule without booster
+505	13SE4337	6102849 CSP	6102849	CSP	Bagamoyo	3076	5-17m	M3	non-malaria	3	Control
+506	13SE4338	6102849 DMSO	6102849	DMSO	Bagamoyo	3076	5-17m	M3	non-malaria	3	Control
+507	13SE4339	6102849 iRBC	6102849	iRBC	Bagamoyo	3076	5-17m	M3	non-malaria	3	Control
+508	13SE4340	6102849 uRBC	6102849	uRBC	Bagamoyo	3076	5-17m	M3	non-malaria	3	Control
+509	13SE4341	1038969 CSP	1038969	CSP	Manhiça	20447	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+510	13SE4342	1038969 DMSO	1038969	DMSO	Manhiça	20447	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+511	13SE4343	1039035.1 CSP	1039035,1	CSP	Manhiça	20557	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+512	13SE4344	1039035.1 DMSO	1039035,1	DMSO	Manhiça	20557	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+513	13SE4345	1039035.1 iRBC	1039035,1	iRBC	Manhiça	20557	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+514	13SE4346	1039035.1 uRBC	1039035,1	uRBC	Manhiça	20557	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+515	13SE4347	1039074 CSP	1039074,0	CSP	Manhiça	20625	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+516	13SE4348	1039074 DMSO	1039074,0	DMSO	Manhiça	20625	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+517	13SE4349	1039148.8 CSP	1039148,8	CSP	Manhiça	20714	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+518	13SE4350	1039148.8 DMSO	1039148,8	DMSO	Manhiça	20714	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+519	13SE4351	1039148.8 iRBC	1039148,8	iRBC	Manhiça	20714	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+520	13SE4352	1039148.8 uRBC	1039148,8	uRBC	Manhiça	20714	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+521	13SE4353	1039090 CSP	1039090,0	CSP	Manhiça	20654	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+522	13SE4354	1039090 DMSO	1039090,0	DMSO	Manhiça	20654	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+523	13SE4355	1039090 iRBC	1039090,0	iRBC	Manhiça	20654	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+524	13SE4356	1039090 uRBC	1039090,0	uRBC	Manhiça	20654	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+525	13SE4357	837875.3 CSP	837875,3	CSP	Manhiça	19489	5-17m	M0	non-malaria	3	Control
+526	13SE4358	837875.3 DMSO	837875,3	DMSO	Manhiça	19489	5-17m	M0	non-malaria	3	Control
+527	13SE4359	1038912.6 CSP	1038912,6	CSP	Manhiça	20808	6-12w	M3	non-malaria	3	Control
+528	13SE4360	1038912.6 DMSO	1038912,6	DMSO	Manhiça	20808	6-12w	M3	non-malaria	3	Control
+529	13SE4361	1038912.6 iRBC	1038912,6	iRBC	Manhiça	20808	6-12w	M3	non-malaria	3	Control
+530	13SE4362	1038912.6 uRBC	1038912,6	uRBC	Manhiça	20808	6-12w	M3	non-malaria	3	Control
+531	13SE4363	838274.9 CSP	838274,9	CSP	Manhiça	19930	5-17m	M0	non-malaria	3	Control
+532	13SE4364	838274.9 DMSO	838274,9	DMSO	Manhiça	19930	5-17m	M0	non-malaria	3	Control
+533	13SE4365	838274.9 iRBC	838274,9	iRBC	Manhiça	19930	5-17m	M0	non-malaria	3	Control
+534	13SE4366	838274.9 uRBC	838274,9	uRBC	Manhiça	19930	5-17m	M0	non-malaria	3	Control
+535	13SE4367	1038943 CSP	1038943,0	CSP	Manhiça	20882	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+536	13SE4368	1038943 DMSO	1038943,0	DMSO	Manhiça	20882	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+537	13SE4369	1038943 iRBC	1038943,0	iRBC	Manhiça	20882	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+538	13SE4370	1038943 uRBC	1038943,0	uRBC	Manhiça	20882	6-12w	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+539	13SE4371	1039037.5 CSP	1039037,5	CSP	Manhiça	20559	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+540	13SE4372	1039037.5 DMSO	1039037,5	DMSO	Manhiça	20559	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+541	13SE4373	1039037.5 iRBC	1039037,5	iRBC	Manhiça	20559	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+542	13SE4374	1039037.5 uRBC	1039037,5	uRBC	Manhiça	20559	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+543	13SE4375	1039104.4 CSP	1039104,4	CSP	Manhiça	20816	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+544	13SE4376	1039104.4 DMSO	1039104,4	DMSO	Manhiça	20816	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+545	13SE4377	1039104.4 iRBC	1039104,4	iRBC	Manhiça	20816	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+546	13SE4378	1039104.4 uRBC	1039104,4	uRBC	Manhiça	20816	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+547	13SE4379	L33v5 CSP	L33v5	CSP	Lamba	6232	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+548	13SE4380	L33v5 DMSO	L33v5	DMSO	Lamba	6232	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+549	13SE4381	1038955.3 CSP	1038955,3	CSP	Manhiça	20889	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+550	13SE4382	1038955.3 DMSO	1038955,3	DMSO	Manhiça	20889	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+551	13SE4383	1038955.3 iRBC	1038955,3	iRBC	Manhiça	20889	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+552	13SE4384	1038955.3 uRBC	1038955,3	uRBC	Manhiça	20889	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+553	13SE4385	1039042.9 CSP	1039042,9	CSP	Manhiça	20541	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+554	13SE4386	1039042.9 DMSO	1039042,9	DMSO	Manhiça	20541	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+555	13SE4387	1039042.9 iRBC	1039042,9	iRBC	Manhiça	20541	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+556	13SE4388	1039042.9 uRBC	1039042,9	uRBC	Manhiça	20541	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+557	13SE4389	863930.1 CSP	863930,1	CSP	Manhiça	19857	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+558	13SE4390	863930.1 DMSO	863930,1	DMSO	Manhiça	19857	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+559	13SE4391	863930.1 iRBC	863930,1	iRBC	Manhiça	19857	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+560	13SE4392	863930.1 uRBC	863930,1	uRBC	Manhiça	19857	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+561	13SE4393	838087.9 CSP	838087,9	CSP	Manhiça	19717	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+562	13SE4394	838087.9 DMSO	838087,9	DMSO	Manhiça	19717	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+563	13SE4396	6090141 DMSO	6090141	DMSO	Bagamoyo	2729	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+564	13SE4397	6090141 iRBC	6090141	iRBC	Bagamoyo	2729	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+565	13SE4398	6090141 uRBC	6090141	uRBC	Bagamoyo	2729	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+566	13SE4399	8093347 CSP	8093347	CSP	Bagamoyo	2908	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+567	13SE4400	8093347 DMSO	8093347	DMSO	Bagamoyo	2908	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+568	13SE4401	8093347 iRBC	8093347	iRBC	Bagamoyo	2908	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+569	13SE4402	8093347 uRBC	8093347	uRBC	Bagamoyo	2908	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+570	13SE4403	838102.7 CSP	838102,7	CSP	Manhiça	19732	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+571	13SE4404	838102.7 DMSO	838102,7	DMSO	Manhiça	19732	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+572	13SE4405	838202.2 CSP	838202,2	CSP	Manhiça	19855	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+573	13SE4406	838202.2 DMSO	838202,2	DMSO	Manhiça	19855	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+574	13SE4407	5092228 CSP	5092228	CSP	Bagamoyo	2861	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+575	13SE4408	5092228 DMSO	5092228	DMSO	Bagamoyo	2861	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+576	13SE4409	3090273 CSP	3090273	CSP	Bagamoyo	2751	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+577	13SE4410	3090273 DMSO	3090273	DMSO	Bagamoyo	2751	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+578	13SE4411	3090273 iRBC	3090273	iRBC	Bagamoyo	2751	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+579	13SE4412	3090273 uRBC	3090273	uRBC	Bagamoyo	2751	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+580	13SE4413	8090197 CSP	8090197	CSP	Bagamoyo	2725	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+581	13SE4414	8090197 DMSO	8090197	DMSO	Bagamoyo	2725	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+582	13SE4415	8090197 iRBC	8090197	iRBC	Bagamoyo	2725	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+583	13SE4416	8090197 uRBC	8090197	uRBC	Bagamoyo	2725	5-17m	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+584	13SE4417	4092083 CSP	4092083	CSP	Bagamoyo	2802	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+585	13SE4418	4092083 DMSO	4092083	DMSO	Bagamoyo	2802	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+586	13SE4419	2086717 CSP	2086717	CSP	Bagamoyo	2812	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+587	13SE4420	2086717 DMSO	2086717	DMSO	Bagamoyo	2812	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+588	13SE4421	2086717 iRBC	2086717	iRBC	Bagamoyo	2812	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+589	13SE4422	2086717 uRBC	2086717	uRBC	Bagamoyo	2812	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+590	13SE4423	8092159 CSP	8092159	CSP	Bagamoyo	3049	5-17m	M0	non-malaria	3	Control
+591	13SE4424	8092159 DMSO	8092159	DMSO	Bagamoyo	3049	5-17m	M0	non-malaria	3	Control
+592	13SE4425	8092159 iRBC	8092159	iRBC	Bagamoyo	3049	5-17m	M0	non-malaria	3	Control
+593	13SE4426	8092159 uRBC	8092159	uRBC	Bagamoyo	3049	5-17m	M0	non-malaria	3	Control
+594	13SE4427	4090274 CSP	4090274	CSP	Bagamoyo	2787	5-17m	M3	non-malaria	3	Control
+595	13SE4428	4090274 DMSO	4090274	DMSO	Bagamoyo	2787	5-17m	M3	non-malaria	3	Control
+596	13SE4429	4090274 iRBC	4090274	iRBC	Bagamoyo	2787	5-17m	M3	non-malaria	3	Control
+597	13SE4430	4090274 uRBC	4090274	uRBC	Bagamoyo	2787	5-17m	M3	non-malaria	3	Control
+598	13SE4431	1097471 CSP	1097471	CSP	Bagamoyo	2958	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+599	13SE4432	1097471 DMSO	1097471	DMSO	Bagamoyo	2958	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+600	13SE4433	1097471 iRBC	1097471	iRBC	Bagamoyo	2958	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+601	13SE4434	1097471 uRBC	1097471	uRBC	Bagamoyo	2958	5-17m	M3	malaria	1	RTS,S/AS01E primary schedule with booster
+602	13SE4435	1039198.3 CSP	1039198,3	CSP	Manhiça	20792	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+603	13SE4436	1039198.3 DMSO	1039198,3	DMSO	Manhiça	20792	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+604	13SE4437	1039198.3 iRBC	1039198,3	iRBC	Manhiça	20792	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+605	13SE4438	1039198.3 uRBC	1039198,3	uRBC	Manhiça	20792	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+606	13SE4439	1039255.3 CSP	1039255,3	CSP	Manhiça	20365	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+607	13SE4440	1039255.3 DMSO	1039255,3	DMSO	Manhiça	20365	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+608	13SE4441	1039255.3 iRBC	1039255,3	iRBC	Manhiça	20365	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+609	13SE4442	1039255.3 uRBC	1039255,3	uRBC	Manhiça	20365	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+610	13SE4443	1039034.4 CSP	1039034,4	CSP	Manhiça	20558	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+611	13SE4444	1039034.4 DMSO	1039034,4	DMSO	Manhiça	20558	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+612	13SE4445	1038913.3 CSP	1038913,3	CSP	Manhiça	20809	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+613	13SE4446	1038913.3 DMSO	1038913,3	DMSO	Manhiça	20809	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+614	13SE4447	1038913.3 iRBC	1038913,3	iRBC	Manhiça	20809	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+615	13SE4448	1038913.3 uRBC	1038913,3	uRBC	Manhiça	20809	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+616	13SE4449	1039121.1 CSP	1039121,1	CSP	Manhiça	20691	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+617	13SE4450	1039121.1 DMSO	1039121,1	DMSO	Manhiça	20691	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+618	13SE4451	1039121.1 iRBC	1039121,1	iRBC	Manhiça	20691	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+619	13SE4452	1039121.1 uRBC	1039121,1	uRBC	Manhiça	20691	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+620	13SE4453	1039026.9 CSP	1039026,9	CSP	Manhiça	20531	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+621	13SE4454	1039026.9 DMSO	1039026,9	DMSO	Manhiça	20531	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+622	13SE4455	1039026.9 iRBC	1039026,9	iRBC	Manhiça	20531	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+623	13SE4456	1039026.9 uRBC	1039026,9	uRBC	Manhiça	20531	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+624	13SE4457	1039249.2 CSP	1039249,2	CSP	Manhiça	20350	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+625	13SE4458	1039249.2 DMSO	1039249,2	DMSO	Manhiça	20350	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+626	13SE4459	1039249.2 iRBC	1039249,2	iRBC	Manhiça	20350	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+627	13SE4460	1039249.2 uRBC	1039249,2	uRBC	Manhiça	20350	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+628	13SE4461	1039021.4 CSP	1039021,4	CSP	Manhiça	20530	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+629	13SE4462	1039021.4 DMSO	1039021,4	DMSO	Manhiça	20530	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+630	13SE4463	1039021.4 iRBC	1039021,4	iRBC	Manhiça	20530	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+631	13SE4464	1039021.4 uRBC	1039021,4	uRBC	Manhiça	20530	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+632	13SE4465	1038900.3 CSP	1038900,3	CSP	Manhiça	20665	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+633	13SE4466	1038900.3 DMSO	1038900,3	DMSO	Manhiça	20665	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+634	13SE4467	1038900.3 iRBC	1038900,3	iRBC	Manhiça	20665	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+635	13SE4468	1038900.3 uRBC	1038900,3	uRBC	Manhiça	20665	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+636	13SE4469	1039126.6 CSP	1039126,6	CSP	Manhiça	20693	6-12w	M3	non-malaria	3	Control
+637	13SE4470	1039126.6 DMSO	1039126,6	DMSO	Manhiça	20693	6-12w	M3	non-malaria	3	Control
+638	13SE4471	1039126.6 iRBC	1039126,6	iRBC	Manhiça	20693	6-12w	M3	non-malaria	3	Control
+639	13SE4472	1039126.6 uRBC	1039126,6	uRBC	Manhiça	20693	6-12w	M3	non-malaria	3	Control
+640	13SE4473	1038968.3 CSP	1038968,3	CSP	Manhiça	20446	6-12w	M3	non-malaria	3	Control
+641	13SE4474	1038968.3 DMSO	1038968,3	DMSO	Manhiça	20446	6-12w	M3	non-malaria	3	Control
+642	13SE4475	1038968.3 iRBC	1038968,3	iRBC	Manhiça	20446	6-12w	M3	non-malaria	3	Control
+643	13SE4476	1038968.3 uRBC	1038968,3	uRBC	Manhiça	20446	6-12w	M3	non-malaria	3	Control
+644	13SE4477	L240 CSP	L240	CSP	Lamba	6290	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+645	13SE4478	L240 DMSO	L240	DMSO	Lamba	6290	5-17m	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+646	13SE4479	L15 CSP	L15	CSP	Lamba	6214	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+647	13SE4480	L15 DMSO	L15	DMSO	Lamba	6214	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+648	13SE4481	L15 iRBC	L15	iRBC	Lamba	6214	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+649	13SE4482	L15 uRBC	L15	uRBC	Lamba	6214	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+650	13SE4483	L23 CSP	L23	CSP	Lamba	6223	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+651	13SE4484	L23 DMSO	L23	DMSO	Lamba	6223	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+652	13SE4485	L23 iRBC	L23	iRBC	Lamba	6223	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+653	13SE4486	L23 uRBC	L23	uRBC	Lamba	6223	5-17m	M0	non-malaria	1	RTS,S/AS01E primary schedule with booster
+654	13SE4487	1039160 CSP	1039160,0	CSP	Manhiça	20377	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+655	13SE4488	1039160 DMSO	1039160,0	DMSO	Manhiça	20377	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+656	13SE4489	1039160 iRBC	1039160,0	iRBC	Manhiça	20377	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+657	13SE4490	1039160 uRBC	1039160,0	uRBC	Manhiça	20377	6-12w	M3	non-malaria	1	RTS,S/AS01E primary schedule with booster
+658	13SE4491	1039015.3 CSP	1039015,3	CSP	Manhiça	20511	6-12w	M3	non-malaria	3	Control
+659	13SE4492	1039015.3 DMSO	1039015,3	DMSO	Manhiça	20511	6-12w	M3	non-malaria	3	Control
+660	13SE4493	1039015.3 iRBC	1039015,3	iRBC	Manhiça	20511	6-12w	M3	non-malaria	3	Control
+661	13SE4494	1039015.3 uRBC	1039015,3	uRBC	Manhiça	20511	6-12w	M3	non-malaria	3	Control
+662	13SE4495	1039081.8 CSP	1039081,8	CSP	Manhiça	20645	6-12w	M3	non-malaria	3	Control
+663	13SE4496	1039081.8 DMSO	1039081,8	DMSO	Manhiça	20645	6-12w	M3	non-malaria	3	Control
+664	13SE4497	1039031.3 CSP	1039031,3	CSP	Manhiça	20547	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+665	13SE4498	1039031.3 DMSO	1039031,3	DMSO	Manhiça	20547	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+666	13SE4499	1039031.3 iRBC	1039031,3	iRBC	Manhiça	20547	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+667	13SE4500	1039031.3 uRBC	1039031,3	uRBC	Manhiça	20547	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+668	13SE4501	1039088.7 CSP	1039088,7	CSP	Manhiça	20662	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+669	13SE4502	1039088.7 DMSO	1039088,7	DMSO	Manhiça	20662	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+670	13SE4503	1039088.7 iRBC	1039088,7	iRBC	Manhiça	20662	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+671	13SE4504	1039088.7 uRBC	1039088,7	uRBC	Manhiça	20662	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+672	13SE4505	8087776 CSP	8087776	CSP	Bagamoyo	2903	5-17m	M0	malaria	3	Control
+673	13SE4506	8087776 DMSO	8087776	DMSO	Bagamoyo	2903	5-17m	M0	malaria	3	Control
+674	13SE4507	8087776 iRBC	8087776	iRBC	Bagamoyo	2903	5-17m	M0	malaria	3	Control
+675	13SE4508	8087776 uRBC	8087776	uRBC	Bagamoyo	2903	5-17m	M0	malaria	3	Control
+676	13SE4509	9099459 CSP	9099459	CSP	Bagamoyo	3028	5-17m	M3	non-malaria	3	Control
+677	13SE4510	9099459 DMSO	9099459	DMSO	Bagamoyo	3028	5-17m	M3	non-malaria	3	Control
+678	13SE4511	9099459 iRBC	9099459	iRBC	Bagamoyo	3028	5-17m	M3	non-malaria	3	Control
+679	13SE4512	9099459 uRBC	9099459	uRBC	Bagamoyo	3028	5-17m	M3	non-malaria	3	Control
+680	13SE4513	1086761 CSP	1086761	CSP	Bagamoyo	2820	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+681	13SE4514	1086761 DMSO	1086761	DMSO	Bagamoyo	2820	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+682	13SE4515	1086761 iRBC	1086761	iRBC	Bagamoyo	2820	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+683	13SE4516	1086761 uRBC	1086761	uRBC	Bagamoyo	2820	5-17m	M0	non-malaria	2	RTS,S/AS01E primary schedule without booster
+684	13SE4517	1039018.4 CSP	1039018,4	CSP	Manhiça	20514	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+685	13SE4518	1039018.4 DMSO	1039018,4	DMSO	Manhiça	20514	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+686	13SE4519	1039018.4 iRBC	1039018,4	iRBC	Manhiça	20514	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
+687	13SE4520	1039018.4 uRBC	1039018,4	uRBC	Manhiça	20514	6-12w	M3	non-malaria	2	RTS,S/AS01E primary schedule without booster
