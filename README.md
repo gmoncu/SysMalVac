@@ -23,21 +23,21 @@ Microarrays data is available at the Gene Expression Omnibus ([GEO](www.ncbi.nlm
 
 ## 2. PCA, heatmaps, gene correlations and radar charts
 
-  * `PCA_analysis&figures.R` is the code to perform PCA analysis and manuscript figures.
-  * `Heatmap_figures.R` is the code to perform the heatmap manuscript figures.
-  * `Gene_correlations.R` is the code to perform the analysis and manuscript figures of FC PfRBC/uRBC gene expression correlations with parasitemia and prepatency in the CPS study.
-  * `RadarCharts_FCgeneExpression.R` is the code to perform the radar charts shown in the manuscript.
+   * `PCA_analysis&figures.R` is the code to perform PCA analysis and manuscript figures.
+   * `Heatmap_figures.R` is the code to perform the heatmap manuscript figures.
+   * `Gene_correlations.R` is the code to perform the analysis and manuscript figures of FC PfRBC/uRBC gene expression correlations with parasitemia and prepatency in the CPS study.
+   * `RadarCharts_FCgeneExpression.R` is the code to perform the radar charts shown in the manuscript.
 
 Data necessary to perform the analyses should be downloaded from Figshare. Please, download and uncompress the [files](https://figshare.com/s/ac59e7686a48faa43938) inside a folder named **_data_**
 
 
 ## 3. Gene set enrichment analysis
 
-The scripts for this analysis can be found in this respository: https://github.com/miquelduranfrigola/sysmalvac_enrichment
+The scripts for this analysis can be found in this [repository](https://github.com/miquelduranfrigola/sysmalvac_enrichment)
 
 
 ## 4. Cell phenotyping
 
- * `Phenotyping_analysis.R` performs the analysis and figures included in the mansucript.
-- **_data_** folder 
- * `pheno_all.csv` is a database with the flow cytometry phenotyping and clinical study variables
+   * `Phenotyping_analysis.R` performs the analysis and figures included in the mansucript.
+- **_data_** folder: 
+   * `pheno_all.csv` is a database with the flow cytometry phenotyping and clinical study variables.
